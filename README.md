@@ -1,0 +1,1 @@
+Related to this [stackoverflow question](https://stackoverflow.com/questions/59864978/typescript-undefined-constant-during-debugging-session).

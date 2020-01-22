@@ -3,7 +3,7 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "experimentalDecorators": true, // only if you want to use decorator
+    "experimentalDecorators": true,
     "target": "es2017",
     "noImplicitAny": true,
     "moduleResolution": "node",
